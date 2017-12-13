@@ -1,4 +1,4 @@
-pragma solidity ^0.4.19;
+ng pragma solidity ^0.4.19;
 
 import 'ds-math/math.sol';
 import '../assets/Asset.sol';

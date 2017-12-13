@@ -2,7 +2,7 @@ pragma solidity ^0.4.19;
 
 import 'ds-test/test.sol';
 import 'ds-math/math.sol';
-import './RMMakeOrders.sol';
+import './RiskMgmtAccToRefPrice.sol';
 
 
 contract RMMakeOrdersTests is DSTest {

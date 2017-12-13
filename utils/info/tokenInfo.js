@@ -6,7 +6,7 @@ module.exports = {
       symbol: 'ANT-T',
       decimals: 18,
       url: 'https://aragon.one/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: '20A0E0dECE9FB6C690CdB439db2B385d271BdA3f',
@@ -14,7 +14,7 @@ module.exports = {
       symbol: 'AVT-T',
       decimals: 18,
       url: 'https://aventus.io/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: '764ae227ad6a6e143546772169265d76aA9337c6',
@@ -22,7 +22,7 @@ module.exports = {
       symbol: 'BNT-T',
       decimals: 18,
       url: 'https://www.bancor.network/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: 'FEE1D0Dc0b5b6F2F20D8e9f7E95e9E367E4a61A7',
@@ -30,7 +30,7 @@ module.exports = {
       symbol: 'BAT-T',
       decimals: 18,
       url: 'https://www.basicattentiontoken.org/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: 'F53E3B6c12f8c66324A64F31277260C06D869732',
@@ -38,7 +38,7 @@ module.exports = {
       symbol: 'BTC-T',
       decimals: 8,
       url: 'https://bitcoin.org/en/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: '3b7c7C457D3aAe04a4631E4888AeEEDd08B24e41',
@@ -46,7 +46,7 @@ module.exports = {
       symbol: 'DGD-T',
       decimals: 9,
       url: 'https://dgx.io/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: '804b7F797eEe4D51Fef29b3Ef7E525A3848A0c0F',
@@ -54,7 +54,7 @@ module.exports = {
       symbol: 'DGX-T',
       decimals: 9,
       url: 'https://dgx.io/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: 'C37cdFb70BD68f6FCF2aB0a97E1D6a12eaA9215f',
@@ -62,7 +62,7 @@ module.exports = {
       symbol: 'DOGE-T',
       decimals: 8,
       url: 'http://dogecoin.com/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: '334559E91238f466C95Bb8241555f6AD27f5978B',
@@ -70,7 +70,7 @@ module.exports = {
       symbol: 'ETC-T',
       decimals: 18,
       url: 'https://ethereumclassic.github.io/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: '1a825E9bF3BdC8ef8B975F97c78b5208a947d0EC',
@@ -78,7 +78,7 @@ module.exports = {
       symbol: 'ETH-T',
       decimals: 18,
       url: 'https://ethereum.org/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: 'CAAC95AB4D30EE8D6162e55EB3430134FEc5aF50',
@@ -86,7 +86,7 @@ module.exports = {
       symbol: 'EUR-T',
       decimals: 8,
       url: 'https://www.decentralizedcapital.com/#!/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: 'C73D78870bA5a3eAddC2BE371Af09B2c429CB2CA',
@@ -94,7 +94,7 @@ module.exports = {
       symbol: 'GNO-T',
       decimals: 18,
       url: 'https://gnosis.pm/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: '08C24283F0b6C07ff9793a1B8534A49B32C07e73',
@@ -102,7 +102,7 @@ module.exports = {
       symbol: 'GNT-T',
       decimals: 18,
       url: 'https://golem.network/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: 'c87BAD39aaDB70257E2417Bd8f4983361599394D',
@@ -110,7 +110,7 @@ module.exports = {
       symbol: 'ICN-T',
       decimals: 18,
       url: 'https://www.iconomi.net/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: 'F051264ab9046fd73cBd00df5E732d2cA78ee704',
@@ -118,7 +118,7 @@ module.exports = {
       symbol: 'LTC-T',
       decimals: 8,
       url: 'https://litecoin.com/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: '2a20ff70596e431ab26C2365acab1b988DA8eCCF',
@@ -126,7 +126,7 @@ module.exports = {
       symbol: 'MLN-T',
       decimals: 18,
       url: 'http://melon.fund/',
-      ipfsHash: 'http://melon.fund/', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: 'http://melon.fund/',
     },
     {
       address: 'e1b25BCaE898ab228A13EAC49EBBA8D3df9add70',
@@ -134,7 +134,7 @@ module.exports = {
       symbol: 'MKR-T',
       decimals: 18,
       url: 'https://makerdao.com/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: '64aF87A36a407732320c4dc1852dEBC60cd81c5E',
@@ -142,7 +142,7 @@ module.exports = {
       symbol: 'REP-T',
       decimals: 18,
       url: 'https://augur.net/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: '3b43249De8Eee169Eea7226a48699FcBA8DF3686',
@@ -150,7 +150,7 @@ module.exports = {
       symbol: 'XRP-T',
       decimals: 6,
       url: 'https://ripple.com/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: '4C4e2b285e446fb1974dcC3a665CAba7C189A96f',
@@ -158,7 +158,7 @@ module.exports = {
       symbol: 'SNGLS-T',
       decimals: 0,
       url: 'https://singulardtv.com/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: '64C4406C58C512f326d83065a72F12884105520b',
@@ -166,7 +166,7 @@ module.exports = {
       symbol: 'SNT-T',
       decimals: 18,
       url: 'https://status.im/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
     {
       address: 'bb0449e9b66e2E1438522645caE6Cf9CD8595793',
@@ -174,7 +174,7 @@ module.exports = {
       symbol: 'ZRX-T',
       decimals: 18,
       url: 'https://project.com/',
-      ipfsHash: '', chainId: 42, breakIn: '', breakOut: '',
+      ipfsHash: '',
     },
   ],
   live: [
